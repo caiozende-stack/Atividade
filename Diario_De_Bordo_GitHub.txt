@@ -1,0 +1,5 @@
+Hoje tivemos aula de git hub
+Onde aprendemos a criar um perfil no git hub e personaliza-lo
+Também aprendemos como criar repositorios pelo git, além de aprender a editados e exclui-los
+Tambem baixamos e configuramos o github para desktop e aprendemos a utiliza-lo.
+E por fim testamos nosso aprendizado do dia com uma atividade pratica de uso
